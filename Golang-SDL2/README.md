@@ -1,3 +1,3 @@
 # Golang-SDL2
 
-> An awesome project.
+> 个人笔记和文档
